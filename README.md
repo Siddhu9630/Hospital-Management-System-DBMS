@@ -13,3 +13,5 @@
 # Frontend: React.js, js, HTML, CSS
 # Backend: Node.js, Express.js
 # Database: MySQL
+
+# Github link: https://github.com/Siddhu9630/Hospital-Management-System-DBMS/tree/main
